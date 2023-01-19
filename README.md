@@ -1,3 +1,3 @@
 # collab-repo
 Invite the peoples tomorrow
-invite them never? (unless they are pretty cool)
+invite them eventually? (unless they are pretty cool)
